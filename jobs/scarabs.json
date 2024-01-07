@@ -1,0 +1,2308 @@
+{
+    "queries": [
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-divination-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-divination-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-divination-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-divination-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-divination-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-divination-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-ambush-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-ambush-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-ambush-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-ambush-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-ambush-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-ambush-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-harbinger-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-harbinger-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-harbinger-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-harbinger-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-harbinger-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-harbinger-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-reliquary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-reliquary-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-reliquary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-reliquary-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-reliquary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-reliquary-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-expedition-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-expedition-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-expedition-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-expedition-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-expedition-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-expedition-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-abyss-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-abyss-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-abyss-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-abyss-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-abyss-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-abyss-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-bestiary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-bestiary-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-bestiary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-bestiary-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-bestiary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-bestiary-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-blight-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-blight-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-blight-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-blight-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-blight-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-blight-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-breach-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-breach-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-breach-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-breach-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-breach-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-breach-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-cartography-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-cartography-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-cartography-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-cartography-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-cartography-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-cartography-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-elder-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-elder-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-elder-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-elder-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-elder-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-elder-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-legion-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-legion-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-legion-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-legion-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-legion-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-legion-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-ultimatum-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-ultimatum-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-ultimatum-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-ultimatum-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-ultimatum-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-ultimatum-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-sulphite-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-sulphite-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-sulphite-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-sulphite-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-sulphite-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-sulphite-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-shaper-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-shaper-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-shaper-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-shaper-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-shaper-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-shaper-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "rusted-torment-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-torment-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "polished-torment-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-torment-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-torment-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-torment-scarab[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-divination-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-divination-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-divination-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-divination-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-divination-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-divination-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-ambush-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-ambush-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-ambush-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-ambush-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-ambush-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-ambush-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-harbinger-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-harbinger-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-harbinger-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-harbinger-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-harbinger-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-harbinger-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-reliquary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-reliquary-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-reliquary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-reliquary-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-reliquary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-reliquary-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-expedition-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-expedition-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-expedition-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-expedition-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-expedition-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-expedition-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-abyss-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-abyss-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-abyss-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-abyss-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-abyss-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-abyss-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-bestiary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-bestiary-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-bestiary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-bestiary-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-bestiary-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-bestiary-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-blight-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-blight-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-blight-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-blight-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-blight-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-blight-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-breach-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-breach-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-breach-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-breach-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-breach-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-breach-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-cartography-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-cartography-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-cartography-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-cartography-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-cartography-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-cartography-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-elder-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-elder-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-elder-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-elder-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-elder-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-elder-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-legion-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-legion-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-legion-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-legion-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-legion-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-legion-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-ultimatum-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-ultimatum-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-ultimatum-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-ultimatum-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-ultimatum-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-ultimatum-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-sulphite-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-sulphite-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-sulphite-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-sulphite-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-sulphite-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-sulphite-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-shaper-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-shaper-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-shaper-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-shaper-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-shaper-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-shaper-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "rusted-torment-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "rusted-torment-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "polished-torment-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "polished-torment-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-torment-scarab"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-torment-scarab[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+processQres changes name "+num"
+
+
+tests to be run:
+time of test write
+reading var from file
+reset json with corrupted file (done)

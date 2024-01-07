@@ -1,0 +1,1636 @@
+{
+    "queries": [
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "essence-of-horror"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-horror[divineMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "essence-of-delirium"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-delirium[divineMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "essence-of-hysteria"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-hysteria[divineMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "essence-of-insanity"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-insanity[divineMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-contempt"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-contempt[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-loathing"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-loathing[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-envy"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-envy[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-rage"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-rage[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-scorn"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-scorn[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-spite"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-spite[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-sorrow"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-sorrow[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-woe"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-woe[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-zeal"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-zeal[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-greed"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-greed[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-anger"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-anger[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-dread"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-dread[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-fear"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-fear[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-hatred"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-hatred[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-misery"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-misery[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-torment"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-torment[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-wrath"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-wrath[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-doubt"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-doubt[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-suffering"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-suffering[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deafening-essence-of-anguish"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-anguish[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-contempt"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-contempt[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-contempt"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-contempt[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-loathing"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-loathing[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-loathing"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-loathing[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-envy"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-envy[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-envy"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-envy[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-rage"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-rage[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-rage"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-rage[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-scorn"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-scorn[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-scorn"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-scorn[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-spite"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-spite[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-spite"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-spite[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-sorrow"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-sorrow[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-sorrow"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-sorrow[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-woe"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-woe[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-woe"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-woe[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-zeal"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-zeal[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-zeal"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-zeal[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-greed"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-greed[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-greed"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-greed[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-anger"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-anger[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-anger"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-anger[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-dread"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-dread[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-dread"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-dread[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-fear"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-fear[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-fear"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-fear[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-hatred"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-hatred[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-hatred"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-hatred[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-misery"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-misery[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-misery"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-misery[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-torment"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-torment[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-torment"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-torment[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-wrath"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-wrath[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-wrath"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-wrath[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-doubt"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-doubt[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-doubt"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-doubt[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-suffering"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-suffering[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-suffering"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-suffering[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shrieking-essence-of-anguish"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shrieking-essence-of-anguish[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deafening-essence-of-anguish"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deafening-essence-of-anguish[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "essence-of-horror"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-horror[chaosMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "essence-of-delirium"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-delirium[chaosMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "essence-of-hysteria"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-hysteria[chaosMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "essence-of-insanity"
+                    ],
+                    "minimum": 20
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "essence-of-insanity[chaosMIN20]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        }
+    ]
+}

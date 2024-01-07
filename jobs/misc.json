@@ -1,0 +1,154 @@
+{
+    "queries": [
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "sacred-lifeforce"
+                    ],
+                    "minimum": 5
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "sacred-lifeforce[divineMIN5]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 1
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "sacred-lifeforce"
+                    ],
+                    "minimum": 5
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "sacred-lifeforce[chaosMIN5]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 1
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "primal-lifeforce"
+                    ],
+                    "minimum": 10000
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "primal-lifeforce[divineMIN1000]",
+            "firstX": 3,
+            "queryType": "exchange/",
+            "num": 1
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "vivid-lifeforce"
+                    ],
+                    "minimum": 10000
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "vivid-lifeforce[divineMIN1000]",
+            "firstX": 3,
+            "queryType": "exchange/",
+            "num": 1
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "wild-lifeforce"
+                    ],
+                    "minimum": 10000
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "wild-lifeforce[divineMIN1000]",
+            "firstX": 3,
+            "queryType": "exchange/",
+            "num": 1
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "stats": [
+                        {
+                            "type": "and",
+                            "filters": [
+                                {
+                                    "id": "pseudo.pseudo_temple_gem_room_3",
+                                    "value": {
+                                        "option": 1
+                                    },
+                                    "disabled": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "sort": {
+                    "price": "asc"
+                }
+            },
+            "nameSet": "gemroom",
+            "queryType": "search/",
+            "firstX": 1,
+            "num": 1
+        }
+    ]
+}

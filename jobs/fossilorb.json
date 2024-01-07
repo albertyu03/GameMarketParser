@@ -1,0 +1,2164 @@
+{
+    "queries": [
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "diviners-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "diviners-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "skittering-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "skittering-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "fine-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fine-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "singular-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "singular-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "cartographers-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "cartographers-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "foreboding-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "foreboding-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "abyssal-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "abyssal-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "challenging-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "challenging-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "armoursmiths-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "armoursmiths-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "blighted-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "blighted-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "fossilised-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fossilised-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "fragmented-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fragmented-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "fragmented-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fragmented-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "jewellers-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "jewellers-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "obscured-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "obscured-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "thaumaturges-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "thaumaturges-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "timeless-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "timeless-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "whispering-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "whispering-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "blacksmiths-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "blacksmiths-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "imperial-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "imperial-delirium-orb[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "diviners-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "diviners-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "skittering-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "skittering-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "fine-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fine-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "singular-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "singular-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "cartographers-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "cartographers-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "foreboding-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "foreboding-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "abyssal-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "abyssal-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "challenging-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "challenging-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "armoursmiths-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "armoursmiths-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "blighted-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "blighted-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "fossilised-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fossilised-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "fragmented-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fragmented-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "fragmented-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fragmented-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "jewellers-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "jewellers-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "obscured-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "obscured-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "thaumaturges-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "thaumaturges-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "timeless-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "timeless-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "whispering-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "whispering-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "blacksmiths-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "blacksmiths-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "imperial-delirium-orb"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "imperial-delirium-orb[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "faceted-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "faceted-fossil[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "glyphic-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "glyphic-fossil[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "fractured-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fractured-fossil[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "hollow-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "hollow-fossil[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "sanctified-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "sanctified-fossil[divineMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "perfect-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "perfect-fossil[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "shuddering-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shuddering-fossil[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "corroded-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "corroded-fossil[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "serrated-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "serrated-fossil[divineMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "fundamental-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fundamental-fossil[divineMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "deft-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deft-fossil[divineMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "prismatic-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "prismatic-fossil[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "bound-fossil"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "bound-fossil[divineMIN15]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "aetheric-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "aetheric-fossil[divineMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "bloodstained-fossil"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "bloodstained-fossil[divineMIN15]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "aberrant-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "aberrant-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "dense-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "dense-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "gilded-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-fossil[divineMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "jagged-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "jagged-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "lucent-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "lucent-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "pristine-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "pristine-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "tangled-fossil"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "tangled-fossil[divineMIN15]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "metallic-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "metallic-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "scorched-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "scorched-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "divine"
+                    ],
+                    "want": [
+                        "frigid-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "frigid-fossil[divineMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "faceted-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "faceted-fossil[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "glyphic-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "glyphic-fossil[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "fractured-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fractured-fossil[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "hollow-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "hollow-fossil[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "sanctified-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "sanctified-fossil[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "perfect-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "perfect-fossil[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "shuddering-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "shuddering-fossil[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "corroded-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "corroded-fossil[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "serrated-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "serrated-fossil[chaosMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "fundamental-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "fundamental-fossil[chaosMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "deft-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "deft-fossil[chaosMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "prismatic-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "prismatic-fossil[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "bound-fossil"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "bound-fossil[chaosMIN15]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "aetheric-fossil"
+                    ],
+                    "minimum": 30
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "aetheric-fossil[chaosMIN30]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "bloodstained-fossil"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "bloodstained-fossil[chaosMIN15]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "aberrant-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "aberrant-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "dense-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "dense-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "gilded-fossil"
+                    ],
+                    "minimum": 50
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "gilded-fossil[chaosMIN50]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "jagged-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "jagged-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "lucent-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "lucent-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "pristine-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "pristine-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "tangled-fossil"
+                    ],
+                    "minimum": 15
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "tangled-fossil[chaosMIN15]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "metallic-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "metallic-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "scorched-fossil"
+                    ],
+                    "minimum": 10
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "scorched-fossil[chaosMIN10]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        },
+        {
+            "QUERY": {
+                "query": {
+                    "status": {
+                        "option": "online"
+                    },
+                    "have": [
+                        "chaos"
+                    ],
+                    "want": [
+                        "frigid-fossil"
+                    ],
+                    "minimum": 100
+                },
+                "sort": {
+                    "have": "asc"
+                },
+                "engine": "new"
+            },
+            "nameSet": "frigid-fossil[chaosMIN100]",
+            "firstX": 1,
+            "queryType": "exchange/",
+            "num": 3
+        }
+    ]
+}
