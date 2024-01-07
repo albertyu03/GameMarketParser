@@ -11,6 +11,9 @@ def getLocalIP():
     ip = requests.get('https://api.ipify.org').text
     return ip
 
-def checkProxy(proxy):
-    #stub
+def checkProxy(cProxy):
+    proxy = {
+    'http': cProxy,
+    'https': cProxy
+    }
     return
