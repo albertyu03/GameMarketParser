@@ -31,6 +31,7 @@ def loopQ(jobFile, sheetInd):
   queries = readQuery(fileName=jobFile)
   for QUERY in queries:
     if(checkErrors()):
+        print("detecting error")
         time.sleep(300)
         resetErrors()
     try:
