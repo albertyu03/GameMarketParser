@@ -1,7 +1,4 @@
-from QUERYfunc import *
-from READfunc import *
-from WRITEfunc import *
-from ERRORthrow import *
+from IPfunc import *
 from script import *
 import time
 import requests
@@ -11,6 +8,8 @@ import json
 
 timesRan = 0
 
+
+update_ip()
 
 while (True):  
   mainQ()

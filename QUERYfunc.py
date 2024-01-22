@@ -8,8 +8,7 @@ import random
 
 currentNum=0
 LEAGUE = "Affliction"
-true = True
-false = False
+staticIP = "35.203.168.92"
 HEADERS = {
   "User-Agent": ""
 }
@@ -17,6 +16,7 @@ proxy = {}
 proxCount = 0
 UserAgents = ["personal testing", "testing", "POEPuller 1.0", "testing requests", "essence sheet", "POMShark 1.3", "try agent", "Bless Sheet 3.2", "BarronQuery 1.7", "mapping data sheet"]
 proxies = ["70.39.87.235:80", "104.160.187.130:80", "67.21.83.97:80", "107.173.88.106:80", "70.39.87.125:80", "67.21.83.175:80", "204.188.247.110:80", "23.95.55.112:80", "204.188.217.84:80", "70.39.75.40:80"]
+
 def changeHeader():
   global proxCount
   global HEADERS, proxy
@@ -30,11 +30,14 @@ def changeHeader():
   proxCount += 1
   if(proxCount > 9):
     proxCount = 0
-
+  return
 
 
 #take in query, call other func and return array of results
-def query(QUERY):
+def query(QUERY, prox=[]):
+  global proxies
+  proxies = prox
+
   print(QUERY['nameSet'])
   changeHeader()
   link = "https://www.pathofexile.com/api/trade/" + QUERY["queryType"] + LEAGUE
@@ -100,7 +103,6 @@ def processPOST(respPOST, QUERY):
 
   counter = 0
   for item in tempList:
-    #time.sleep(8)
     returnList.append(processGET(item, QUERY, QUERY['firstX']+counter))
     counter = counter + 1
   return returnList

@@ -1,5 +1,7 @@
 import json
+import requests
 from time import gmtime, strftime
+from IPfunc import *
 
 filename = 'errors.json'
 
@@ -17,6 +19,9 @@ def throwERROR(error='default error', function='default func', query='no query p
   json.dump(file_data, file, indent = 4)
   file.close()
 
+  #debugging --> reset proxies, reconnect ip(?) , check server down
+  #check rate limits
+  
 def checkErrors():
   file = open(filename, 'r')
   file_data = json.load(file)
@@ -30,9 +35,20 @@ def resetErrors():
   file = open(filename, 'r+')
   file_data = json.load(file)
   file_data['errors'].clear()
-  #print(file_data)
   file.seek(0)
   json.dump(file_data, file, indent = 4)
   file.truncate()
   file.close()
-  
+
+def query_assertion(response):
+  code = response.status_code
+  if(code == 200 or code == 202):
+    return 0
+  elif(code == 400):
+    return 1 #bad request
+  elif(code == 404):
+    return 2 #not found?
+  elif(code == 429):
+    return 3 #rate limit
+  elif(code == 500):
+    return 4 #server error

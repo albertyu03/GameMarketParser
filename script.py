@@ -2,10 +2,17 @@ from QUERYfunc import *
 from READfunc import *
 from WRITEfunc import *
 from ERRORthrow import *
+from IPfunc import *
 import traceback
 import time
 
+proxies = []
+
 def mainQ():
+  global proxies
+  reset_proxies()
+  proxies = get_proxies()
+
   reset_json(fileName='errors.json',hash='errors')
   reset_json()
   loopQ('jobs/misc.json', 4)
@@ -15,6 +22,8 @@ def mainQ():
   loopQ("jobs/fossilorb.json", 3)
   
 def loopQ(jobFile, sheetInd):
+  global proxies
+
   reset_json()
   print("start")
   cDict = []
@@ -22,16 +31,11 @@ def loopQ(jobFile, sheetInd):
   queries = readQuery(fileName=jobFile)
   for QUERY in queries:
     if(checkErrors()):
-      errorSTAT = True
-      while(errorSTAT):
-        errorSTAT = queryECHECK()
-        print('error detected')
-        time.sleep(60)
-      print('error resolved')
-      resetErrors()
+        time.sleep(300)
+        resetErrors()
     try:
-     time.sleep(2)
-     for qResult in query(QUERY):
+     for qResult in query(QUERY, proxies):
+      time.sleep(1)
       if(not checkErrors()):
         if(qResult['currency'] == 'divine'): #chaos conversion
           qResult['value'] = qResult['value'] * divValue
