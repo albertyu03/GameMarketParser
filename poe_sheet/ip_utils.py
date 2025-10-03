@@ -1,8 +1,8 @@
 import os
 import requests
 import json
-from READfunc import *
-from QUERYfunc import *
+from ip_utils import *
+from query import *
 import time
 import random
 

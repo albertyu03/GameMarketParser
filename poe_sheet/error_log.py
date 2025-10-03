@@ -1,7 +1,7 @@
 import json
 import requests
 from time import gmtime, strftime
-from IPfunc import *
+from ip_utils import *
 
 filename = 'errors.json'
 

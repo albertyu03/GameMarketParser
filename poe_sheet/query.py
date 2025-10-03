@@ -1,8 +1,8 @@
 import os
 import requests
 import json
-from READfunc import *
-from ERRORthrow import *
+from read import *
+from error_log import *
 import time
 import random
 
