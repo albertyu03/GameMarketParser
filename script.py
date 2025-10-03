@@ -6,13 +6,10 @@ from IPfunc import *
 import traceback
 import time
 
-proxies = []
+SLEEP_TIME = 10
+SLEEP_ERROR = 300
 
 def mainQ():
-  global proxies
-  reset_proxies()
-  proxies = get_proxies()
-
   reset_json(fileName='errors.json',hash='errors')
   reset_json()
   loopQ('jobs/misc.json', 4)
@@ -23,27 +20,22 @@ def mainQ():
   
 def loopQ(jobFile, sheetInd):
   global proxies
-
   reset_json()
-  print("start")
   cDict = []
   divValue = divCheck()
   queries = readQuery(fileName=jobFile)
   for QUERY in queries:
     if(checkErrors()):
-        print("detecting error")
-        time.sleep(300)
+        time.sleep(SLEEP_ERROR)
         resetErrors()
     try:
      for qResult in query(QUERY, proxies):
-      time.sleep(1)
+      time.sleep(SLEEP_TIME) # gaet for rate limit
       if(not checkErrors()):
         if(qResult['currency'] == 'divine'): #chaos conversion
           qResult['value'] = qResult['value'] * divValue
           qResult['currency'] = 'chaos'
         cDict.append(qResult)
-      else:
-        print("error caught")
     except Exception:
       traceback.print_exc()
       throwERROR(error='query fail', function='query', query=QUERY)

@@ -6,30 +6,29 @@ from ERRORthrow import *
 import time
 import random
 
-currentNum=0
-LEAGUE = "Affliction"
-staticIP = "35.203.168.92"
+LEAGUE = "Mercenaries"
+staticIP = "" # old hosted ip 
 HEADERS = {
   "User-Agent": ""
 }
 proxy = {}
-proxCount = 0
-UserAgents = ["personal testing", "testing", "POEPuller 1.0", "testing requests", "essence sheet", "POMShark 1.3", "try agent", "Bless Sheet 3.2", "BarronQuery 1.7", "mapping data sheet"]
-proxies = ["70.39.87.235:80", "104.160.187.130:80", "67.21.83.97:80", "107.173.88.106:80", "70.39.87.125:80", "67.21.83.175:80", "204.188.247.110:80", "23.95.55.112:80", "204.188.217.84:80", "70.39.75.40:80"]
+c_count = 0
+UserAgents = ["personal testing"]
+proxies = [] # if proxies are needed
+HEADER_NUM = 1
 
 def changeHeader():
-  global proxCount
-  global HEADERS, proxy
+  global c_count
   HEADERS = {
-    "User-Agent": UserAgents[proxCount]
+    "User-Agent": UserAgents[c_count]
   }
   proxy = {
-    'http': proxies[proxCount],
-    'https': proxies[proxCount]
+    'http': proxies[c_count],
+    'https': proxies[c_count]
   }
-  proxCount += 1
-  if(proxCount > 9):
-    proxCount = 0
+  c_count += 1
+  if(c_count > HEADER_NUM):
+    c_count = 0
   return
 
 
@@ -38,7 +37,6 @@ def query(QUERY, prox=[]):
   global proxies
   proxies = prox
 
-  print(QUERY['nameSet'])
   changeHeader()
   link = "https://www.pathofexile.com/api/trade/" + QUERY["queryType"] + LEAGUE
   respPOST = requests.post(link, headers = HEADERS, json = QUERY["QUERY"], proxies=proxy)
@@ -135,7 +133,6 @@ def queryECHECK(): #need to catch for empty query as well
     tq = processQRes(respPOST.json()['result'], name='test query')
     return False
   except:
-    print("echeck failed")
     return True
 
 #return ninja updated divine value

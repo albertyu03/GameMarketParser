@@ -9,8 +9,6 @@ import json
 timesRan = 0
 
 
-update_ip()
-
 while (True):  
   mainQ()
   time.sleep(2)
