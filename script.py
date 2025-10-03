@@ -1,8 +1,8 @@
-from QUERYfunc import *
-from READfunc import *
-from WRITEfunc import *
-from ERRORthrow import *
-from IPfunc import *
+from poe_sheet.query import *
+from poe_sheet.read import *
+from poe_sheet.write import *
+from poe_sheet.error_log import *
+from poe_sheet.ip_utils import *
 import traceback
 import time
 
