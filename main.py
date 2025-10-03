@@ -1,19 +1,14 @@
-from IPfunc import *
-from script import *
+from script import mainQ, update_ip
 import time
-import requests
-import json
 
-#reset_json()
+def run_loop():
+    update_ip()
+    timesRan = 0
+    while True:
+        mainQ()
+        time.sleep(2)
+        timesRan += 1
+        print("TIMESRAN:" + str(timesRan))
 
-timesRan = 0
-
-
-while (True):  
-  mainQ()
-  time.sleep(2)
-  timesRan = timesRan + 1
-  print("TIMESRAN:" + str(timesRan))
-
-
-
+if __name__ == "__main__":
+    run_loop()
